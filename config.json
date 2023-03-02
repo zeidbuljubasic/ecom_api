@@ -1,0 +1,23 @@
+{
+	"app": {
+		"host": "http://api.zeidb.com",
+		"port": 88
+	},
+
+	"db": {
+		"url": "mongodb+srv://"
+	},
+
+	"jwt": {
+		"secret": "your_secret_token",
+		"expiry": "24h"
+	},
+
+	"smtp": {
+		"server": "",
+		"port": "",
+		"user": "",
+		"pass": "",
+		"from": ""
+	}
+}
